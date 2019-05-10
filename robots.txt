@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepaifeiy.electronic-postage.com/sitemap.xml
